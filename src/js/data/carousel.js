@@ -33,7 +33,7 @@ var carousel = new Array();
   }
   
   getValoresAPI().then(carousel => 
-    console.log( carousel ),
+    console.log( carousel )
     );
   
   var carousel = [
