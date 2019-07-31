@@ -5,7 +5,7 @@
 In the project directory, you can run:
 
 ### `npm install`
-Têm WebPacker que libray de rumtime o desenvolvimento.
+Têm WebPacker que libray de runtime que facilita o desenvolvimento.
 Executa na .<br>
  [http://localhost:8080](http://localhost:8080)
 
