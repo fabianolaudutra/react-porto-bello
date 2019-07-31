@@ -9,7 +9,7 @@ import App from './components/app'
 import rootReducer from './reducers'
 import carousel from './data/carousel'
 
-
+console.log(teste)
 carousel[0].active = true
 
 const initialState = { carousel }
